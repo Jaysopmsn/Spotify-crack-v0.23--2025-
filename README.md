@@ -1,6 +1,6 @@
 
 
-![Upss...](https://ibb.co/39zZJfR0)
+![Превью к коду](assets/preview.png)
 
 
 # Spotify Client with SpotX 1.0
