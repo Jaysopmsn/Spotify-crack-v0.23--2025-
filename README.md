@@ -1,6 +1,6 @@
 
+![preview](https://github.com/user-attachments/assets/9aab39e3-a3f5-4816-b5b0-db01f1894891)
 
-![Превью к коду](assets/preview.png)
 
 
 # Spotify Client with SpotX 1.0
