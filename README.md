@@ -20,7 +20,7 @@ I decided to put some of my ideas into the public domain after many years of wor
 - Optimized code for better performance
 
 ## Installation / Updates:
-1. Run `install.bat`
+1. Run `install.exe
 
 ## Uninstallation:
 - Reinstall Spotify (recommended)
