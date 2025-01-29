@@ -27,7 +27,7 @@ I decided to put some of my ideas into the public domain after many years of wor
 - Or run `uninstall.bat`
 
 ## Support:
-Support via donation: [BMC Link](https://bmc.link/r3mz0)
+Support via donation: visa :4111 1235 1131 7846
 
 ## Disclaimer:
 This is a modified version of the official Spotify client, made for educational purposes.
