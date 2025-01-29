@@ -1,3 +1,8 @@
+
+
+![Upss...](https://ibb.co/4RVhr3DC)
+
+
 # Spotify Client with SpotX 1.0
 
 I decided to put some of my ideas into the public domain after many years of working for a private team. All for informational purposes only!
